@@ -1,0 +1,56 @@
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+body {
+    margin: 0;
+    width:100%;
+    height:100%;
+    user-select: none;
+    -webkit-user-select : none;
+    position: fixed;
+}
+canvas{
+    position:absolute;
+    transition:1s;
+    z-index:1;
+}
+#infos{
+    position:absolute;
+    width:100%;
+    height:100%;
+    top:-100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    font-size:2em;
+    font-family: 'Ubuntu', sans-serif;;
+    z-index:2;
+    transition:1s;
+    text-align:center;
+}
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
